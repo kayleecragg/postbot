@@ -1,4 +1,8 @@
-# postbot
+# **postbot**
+
+This application allows users to automate the process of making post match images through proxy of tile-creator, by using the pre-entered data sheet that made the pre-images.
+![Data Entry](https://raw.githubusercontent.com/kayleecragg/kikibot/main/Images/dataentry.png)
+
 
 You can download the post images app [here](https://github.com/kayleecragg/postbot/releases/tag/v1.0.0 )
 
